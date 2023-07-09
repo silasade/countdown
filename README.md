@@ -1,3 +1,9 @@
+View the site here (https://silasade.github.io/countdown/)
+# About
+This react app shows a random countdown of when the main application will be launched
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
